@@ -1,5 +1,5 @@
 # Método de Integração de Simpson
-# Função de integração: x * f(x)
+# Função de integração: x * f(x) (é preciso modificar dentro do código para diferentes funções de integração)
 
 while True:
 
